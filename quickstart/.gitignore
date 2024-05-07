@@ -26,4 +26,5 @@ replay_pid*
 # Config file
 config.properties
 
+# Target directory
 target/
