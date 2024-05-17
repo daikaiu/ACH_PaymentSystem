@@ -1,17 +1,14 @@
-# Get Started
+# Square Java SDK Quickstart
+
+This quickstart sample creates a Square client instance with your Square access token and then lists the locations in your account.
+The sample is based on the [Java SDK Quickstart guide](https://developer.squareup.com/docs/sdks/java/quick-start).
+
+## Setup
 
 [Install Java Guide](https://www.java.com/en/download/help/download_options.html) - If you don't have java already installed on your machine.
 
 [Maven Install Guide](https://maven.apache.org/install.html)
 **note**: Gradle is also supported but the quickstart here demonstrates using Maven. 
-
-[Square SDK Guide](https://developer.squareup.com/docs/sdks/java/using-java-sdk) - details on how to use / configure the Square client.
-
-[Java Quickstart guide](https://developer.squareup.com/docs/sdks/java/quick-start) - The quickstart directory is based off of this document.
-
-[Maven Repository for Square](https://mvnrepository.com/artifact/com.squareup/square) - Where the package files are hosted
-
-[Java SDK Source Code](https://github.com/square/square-java-sdk) - Github repo with sdk source code
 
 ## Quickstart instructions
 
@@ -40,3 +37,11 @@
     Location(s) for this account:
     LGJ1WWJ8PSV8Z: Default Test Account, 1600 Pennsylvania Ave NW, Washington
     ```
+
+## Resources
+
+[Square Java SDK Guide](https://developer.squareup.com/docs/sdks/java/using-java-sdk) - details on how to use / configure the Square client.
+
+[Maven Repository for Square](https://mvnrepository.com/artifact/com.squareup/square) - Where the package files are hosted
+
+[Java SDK Source Code](https://github.com/square/square-java-sdk) - Github repo with sdk source code
